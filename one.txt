@@ -1,2 +1,4 @@
-I am a student.
 sunny
+I have a little sister.
+I am a programmer.
+I love git.
